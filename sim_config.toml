@@ -1,0 +1,12 @@
+[main]
+
+sync-request-timeout = "60000"
+
+[p2p]
+network-id = "1"
+max-inbound = "32"
+
+[p2p.swarm]
+bootstrap = true
+randcon = "8"
+bootnodes = ["libonomy://3Rxidkzo77hjco562NGfqbLdgkXCUqQtYeBH5wHzUzvj@185.189.48.150:7152"]

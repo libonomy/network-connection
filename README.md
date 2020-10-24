@@ -31,7 +31,9 @@ upgrades libonomy will depricate such systems.
 
 ### How to begin
 
-Download the build file from linux https://github.com/libonomy/libonomy-p2p
+Download the build file from linux https://github.com/libonomy/network-connection/tree/main-beta-v1
+Or
+Build Your Own Using Libonomy Full Node Implementation Beta.V1.Release (With Crypto Currency support) 
 > IMPORTANT: Please use Chrome, Firefox or Safari to browse the guide. 
 
 ## Before Connection
@@ -47,7 +49,6 @@ Ensure that `$GOPATH` is set correctly and that the `$GOPATH/bin` directory appe
 ```
 As soon as you are done you will be connected to the main network.
 ## After Connection
-## Using with a local node 
 
 1. Make sure that you have configured the wallet CLI properly and the url to live server is properly set.
 
